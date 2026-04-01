@@ -120,7 +120,7 @@ This is an example of how to list things you need to use the software and how to
 
 ## Related Repositories
 
-- [Backend Repository](https://github.com/ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-BackEnd)
+https://github.com/LHP0603/Import-and-Export-Goods-Entrusted-System-BackEnd.git
 
 ## License
 
