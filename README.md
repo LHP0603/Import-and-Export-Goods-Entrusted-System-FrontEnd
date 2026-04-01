@@ -128,10 +128,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributors:
 
-<a href="https://github.com/ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-FrontEnd/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-FrontEnd" alt="contrib.rocks image" />
-</a>
-
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-FrontEnd/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
