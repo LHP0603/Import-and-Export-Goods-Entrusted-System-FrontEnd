@@ -126,8 +126,6 @@ This is an example of how to list things you need to use the software and how to
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributors:
-
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-FrontEnd/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
