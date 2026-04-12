@@ -8,14 +8,6 @@
 
   <p align="center">
     The repository "Import and Export Goods Entrusted System - FrontEnd" is a frontend application designed to support an Import and Export Goods Entrusted System. This system facilitates the handling of goods entrusted by customers for import and export processes. It is built with Next.js, a framework based on React, which supports server-side rendering, API integrations, and client-side features.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-FrontEnd/issues/new?labels=bug">Report Bug</a>
-    ·
-    <a href="https://github.com/ASE-UIT/05.-Import-and-Export-Goods-Entrusted-System-FrontEnd/issues/new?labels=enhancement">Request Feature</a>
-  </p>
 </div>
 
 <details>
